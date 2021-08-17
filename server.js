@@ -6,6 +6,7 @@ const options = {
     default_balance_ether: 1234567890,
     total_accounts: 2,
     network_id: 2468,
+    ws:true,
     // db_path: "https://ipfs.io/ipfs/QmWdBJ26yiVd34jfDkM5SswVUqCwjg1nHzpx3i3vPM6TB8",
     // db_path: "/tmp/ganache-server",
     logger: console
